@@ -11,7 +11,7 @@ Include: yum
 
 #variables section
 
-VER="2.7.13"
+VER="2.7.15"
 FTPSRV="https://www.python.org/ftp/python/${VER}"
 FTP_FILE="Python-${VER}.tgz"
 PYTHON_SHORT_VERSION=${VER%.*}
